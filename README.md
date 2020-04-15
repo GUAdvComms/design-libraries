@@ -1,4 +1,6 @@
 # GUOA Design Libraries
+![Screenshot of Advancement Web Components Library in Sketch](https://github.com/GUAdvComms/design-libraries/raw/master/guoa-web-components-library-screenshot.png)
+
 ## Requirements ##
 1. <a href="https://fonts.adobe.com/fonts/adobe-caslon">Adobe Caslon</a> and <a href="https://fonts.adobe.com/fonts/futura-pt">Futura PT</a> enabled through Adobe Fonts. See https://helpx.adobe.com/fonts/using/activate-fonts-desktop.html for more information.
 1. The latest version of Sketch installed on your computer. If you already have Sketch installed, check for updates by navigating to the `Sketch` menu then `Check For Updates...`. To install Sketch fresh go to https://www.sketch.com/get
